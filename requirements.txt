@@ -1,0 +1,7 @@
+streamlit
+anthropic
+pypdf
+python-docx
+fastapi
+uvicorn[standard]
+python-multipart
